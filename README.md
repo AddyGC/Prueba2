@@ -1,5 +1,4 @@
 + Instalacion Eclipse Java
-  Uso: Educacional
-- Licencia: Free
++  Uso: Educacional
 + Creditos: Addy Grande 
 + Licencia: Free
